@@ -9,6 +9,6 @@ namespace TestSol
     public class Class1
     {
 
-        int i = 35;
+        int i = 3;
     }
 }
