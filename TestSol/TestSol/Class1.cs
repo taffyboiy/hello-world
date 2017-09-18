@@ -10,5 +10,7 @@ namespace TestSol
     {
 
         int i = 3;
+
+        string s = "hello";
     }
 }
