@@ -11,5 +11,6 @@ namespace TestSol
     public class DavesClass
     {
         private string s = "Dave is the Greatest";
+        private string f = "change for the shared feature";
     }
 }
