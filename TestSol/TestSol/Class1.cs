@@ -10,5 +10,7 @@ namespace TestSol
     {
         // Aidan added a rem statement
         int i = 3;
+
+        string s = "hello";
     }
 }
